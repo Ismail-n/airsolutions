@@ -1,0 +1,5 @@
+3 tarah ke key words hote hai Javascript main veriables declare karne ke liye
+1. let.
+2. var.
+3. const.
+
